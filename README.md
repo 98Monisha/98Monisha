@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @98Monisha
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...cpp
+- 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ...
 
